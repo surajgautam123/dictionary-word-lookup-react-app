@@ -26,7 +26,7 @@ const SearchBox = ({ onSearch }) => {
           size="md"
           radius="md"
         />
-        <Button type="submit" size="md" radius="md">
+        <Button type="submit" size="md" radius="md" color="green">
           Search
         </Button>
         {searchTerm && (
