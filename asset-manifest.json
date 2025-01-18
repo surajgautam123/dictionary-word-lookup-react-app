@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/dictionary-word-lookup-react-app/static/css/main.f4579481.css",
-    "main.js": "/dictionary-word-lookup-react-app/static/js/main.8ccd63d4.js",
+    "main.js": "/dictionary-word-lookup-react-app/static/js/main.a5117d44.js",
     "index.html": "/dictionary-word-lookup-react-app/index.html",
     "main.f4579481.css.map": "/dictionary-word-lookup-react-app/static/css/main.f4579481.css.map",
-    "main.8ccd63d4.js.map": "/dictionary-word-lookup-react-app/static/js/main.8ccd63d4.js.map"
+    "main.a5117d44.js.map": "/dictionary-word-lookup-react-app/static/js/main.a5117d44.js.map"
   },
   "entrypoints": [
     "static/css/main.f4579481.css",
-    "static/js/main.8ccd63d4.js"
+    "static/js/main.a5117d44.js"
   ]
 }
