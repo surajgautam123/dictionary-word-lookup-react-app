@@ -1,5 +1,4 @@
 # Dictionary Word Lookup React Application
-
 A modern React application that allows users to search for word definitions, phonetics, origins, and meanings using the Free Dictionary API. Built with React and Mantine UI components.
 
 ## Features
@@ -19,7 +18,7 @@ A modern React application that allows users to search for word definitions, pho
 
 ## Technologies Used
 
-- React 18
+- React ^19.0.0
 - Mantine UI v7
 - Axios for API requests
 - Free Dictionary API
@@ -29,21 +28,20 @@ A modern React application that allows users to search for word definitions, pho
 
 ### Prerequisites
 
-- Node.js (v14 or higher)
+- Node.js (v14 or higher then v18.20.5)
 - npm (v6 or higher)
 
 ### Installation
 
 1. Clone the repository:
-    git clone <repository-url>
-    cd dictionary-app
+    ### git clone <repository-url>
+    ### cd dictionary-word-lookup-react-app
 
 2. Install dependencies:
-    npm install
+    ### npm install
 
 3. Start the development server:
-    npm start
-
+    ### npm start
 
 The application will open in your default browser at `http://localhost:3000`.
 
@@ -87,15 +85,12 @@ Endpoint: `https://api.dictionaryapi.dev/api/v2/entries/en/{word}`
 - Clean and intuitive design
 
 ## Contributing
-
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
-
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
-
 - [Free Dictionary API](https://dictionaryapi.dev/) for providing the dictionary data
 - [Mantine](https://mantine.dev/) for the UI components
 - [Tabler Icons](https://tabler-icons.io/) for the icons
